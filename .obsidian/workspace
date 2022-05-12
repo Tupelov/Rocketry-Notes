@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "5a5891d0f6859f78",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c786623bb1dc26",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d842e56980911bcd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c99b82600b4fb574",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6779c7dd61c0f3ea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a4fa044fe0cd038e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "3cf92d7b3a66d63e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "248bcd76bba26a36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "8feda74b63a3368c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e3c786623bb1dc26",
+  "lastOpenFiles": [
+    "README.md",
+    "Impulse.md",
+    "Mass Flow Rate.md",
+    "Momentum.md",
+    "Specific Impulse.md",
+    "Force.md",
+    "momentum, it can be found by integrating [[force.md"
+  ]
+}

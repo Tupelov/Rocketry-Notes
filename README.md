@@ -1,0 +1,1 @@
+This is a personal Obsidian repository for notes related to rocketry.
