@@ -1,6 +1,5 @@
 # Description
-
-
-Mass flow Rate, often notated as $\dot{m}$, is the rate at which mass is changing. It can be found by taking the derivative of mass and integrating of course gives you the change in mass.
+Mass flow Rate, often notated as $\dot{m}$, is the rate of change of mass with respect to time. *It can be found by taking the derivative of mass with respect to time.*
+$$\dot{m}=\frac{dm}{dt}$$
 ## Units
 $$\frac{kg}{s}$$
