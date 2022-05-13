@@ -1,5 +1,5 @@
 # Description
-Impulse is the change of [[momentum]], it can be found by integrating [[force]] with respect to time.
+Impulse is the change of [[Momentum]], it can be found by integrating [[Force]] with respect to time.
 $${I_t=\int_0^tF\, dt}$$
 There are various symbols for impulse:
 - Impulse: $I$

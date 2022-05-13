@@ -1,0 +1,10 @@
+#ClassicalMechanics 
+Newton's laws of motions are three basic laws of Classical Mechanics that describe the relationhsip between the motion of an object and the [[force||forces]] acting on it. It is ***fundemental*** to understanding physics.
+
+
+### Law 1
+_Every body continues in its state of rest, or of uniform motion in a straight line, unless it is compelled to change that state by [[force|forces]] impressed upon it._
+### Law 2
+_The change of [[momentum]] of an object is proportional to the [[force]] applied; and is made in the direction of the straight line in which the [[force]] is applied_
+### Law 3
+_To every action there is always an equal and opposite reaction_

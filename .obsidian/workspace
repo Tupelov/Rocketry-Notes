@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c786623bb1dc26",
+        "id": "a976faea0c5dd3a6",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,87 +15,106 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d842e56980911bcd",
-    "type": "mobile-drawer",
+    "id": "b4cb45c344d2c44e",
+    "type": "split",
     "children": [
       {
-        "id": "c99b82600b4fb574",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "6779c7dd61c0f3ea",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b4b5c19d2f6e4f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67b174a4dd436d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "055f7095bec53dc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ClassicalMechanics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "a4fa044fe0cd038e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      }
-    ]
-  },
-  "right": {
-    "id": "3cf92d7b3a66d63e",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "248bcd76bba26a36",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
-          }
-        }
-      },
-      {
-        "id": "8feda74b63a3368c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "e3c786623bb1dc26",
+  "right": {
+    "id": "d854d269ebe40261",
+    "type": "split",
+    "children": [
+      {
+        "id": "1beabda964952d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5e1470a73f18ed4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "993e76ab943fbcb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6460ea3134263d95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
-    "README.md",
+    "ClassicalMechanics/Force.md",
+    "ClassicalMechanics/Newtons Law's of Motion.md",
+    "ClassicalMechanics/Momentum.md",
+    "ClassicalMechanics/Displacement.md",
+    "ClassicalMechanics/Acceleration.md",
+    "ClassicalMechanics/Velocity.md",
+    "acceleration.md",
     "Impulse.md",
     "Mass Flow Rate.md",
-    "Momentum.md",
-    "Specific Impulse.md",
-    "Force.md",
-    "momentum, it can be found by integrating [[force.md"
+    "README.md"
   ]
 }
