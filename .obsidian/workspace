@@ -7,105 +7,97 @@
         "id": "a976faea0c5dd3a6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Specific Impulse.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b4cb45c344d2c44e",
-    "type": "split",
+    "id": "292fa94c7c18def5",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b4b5c19d2f6e4f07",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e67b174a4dd436d4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "055f7095bec53dc4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#ClassicalMechanics",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "e251eec9a43c357f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c6e28f6ff925af96",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "760c0749e60403d0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "d854d269ebe40261",
-    "type": "split",
+    "id": "4e58f19ed3844201",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1beabda964952d60",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5e1470a73f18ed4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "993e76ab943fbcb3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6460ea3134263d95",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "0a0cda931b12b5f6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Specific Impulse.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "522ede00541ff7f6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Specific Impulse.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
+    "Specific Impulse.md",
     "ClassicalMechanics/Force.md",
     "ClassicalMechanics/Newtons Law's of Motion.md",
     "ClassicalMechanics/Momentum.md",
@@ -114,7 +106,6 @@
     "ClassicalMechanics/Velocity.md",
     "acceleration.md",
     "Impulse.md",
-    "Mass Flow Rate.md",
-    "README.md"
+    "Mass Flow Rate.md"
   ]
 }
