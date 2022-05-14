@@ -7,10 +7,8 @@
         "id": "a976faea0c5dd3a6",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "Pressure thrust.jpg.jpg"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pressure thrust.jpg.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -84,7 +81,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pressure thrust.jpg.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,15 +91,15 @@
   },
   "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
-    "Pressure thrust.jpg.jpg",
-    "Thrust.md",
-    "Mass Flow Rate.md",
-    "Specific Impulse.md",
-    "Classical Mechanics/Force.md",
-    "Impulse.md",
-    "Classical Mechanics/Momentum.md",
-    "Propellant Mass Fraction.md",
     "Thrust To Weight Ratio.md",
-    "Impulse To Weight Ratio.md"
+    "Thrust.md",
+    "Specific Impulse.md",
+    "Propellant Mass Fraction.md",
+    "Mass Ratio.md",
+    "Mass Flow Rate.md",
+    "Impulse.md",
+    "Impulse To Weight Ratio.md",
+    "Effective Exhaust Velocity.md",
+    "Nozzles/Aerospike Nozzle.md"
   ]
 }

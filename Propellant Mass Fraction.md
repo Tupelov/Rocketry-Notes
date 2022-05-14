@@ -1,3 +1,5 @@
+#Analysis 
+# Description
 *The propellant mass fraction* $\zeta$, indicates the ratio of useful propellant mass $m_p$ to the initial mass $m_0$. Like [[mass ratio]] it can be used to describe a rocket propulsion system, a stage or a whole vehicle with it's values varying depending on what is analyzed.
 $$\zeta=\frac{m_p}{m_0}$$
 $$\zeta=\frac{m_0-m_f}{m_0}$$

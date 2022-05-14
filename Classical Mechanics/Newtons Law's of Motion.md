@@ -1,4 +1,5 @@
 #ClassicalMechanics 
+# Description
 Newton's laws of motions are three basic laws of Classical Mechanics that describe the relationhsip between the motion of an object and the [[Force||forces]] acting on it. It is ***fundemental*** to understanding physics.
 
 
