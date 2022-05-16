@@ -8,4 +8,4 @@ $$F=\frac{d(mv)}{dt}=\dot{m}v$$
 ![[Pressure thrust.jpg.jpg]]
 The pressure of the remaining propellant gives rise to the second part of thrust. The pressure of the propellant creates a force upon exiting $p_e$, due to an imbalance in pressure. Knowing that pressure is force applied per area ($\frac{kg}{m^2}$) we can multiply it by the area $A$ to get the pressure thrust. Because the force comes from a *drop* in pressure, we must subtract $p_a$, the ambient pressure:
 $$F=\dot{m}v+(p_e-p_a)A$$
-Pressure thrust is generated from the difference in pressure between the exit of the nozzle and ambient pressure. This means that if the ambient pressure is higher than the exit pressure, there is a *negative* pressure thrust. Typically rocket nozzles use an exit pressure at or slightly above ambient pressure.
+Pressure thrust is generated from the difference in pressure between the exit of the nozzle and ambient pressure. This means that if the ambient pressure is higher than the exit pressure, there is a *negative* pressure thrust. Typically rocket nozzles use an exit pressure at or slightly above ambient pressure. ( See Optimum Expansion Ratio)

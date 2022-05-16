@@ -91,15 +91,15 @@
   },
   "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
-    "Thrust To Weight Ratio.md",
-    "Thrust.md",
-    "Specific Impulse.md",
-    "Propellant Mass Fraction.md",
-    "Mass Ratio.md",
-    "Mass Flow Rate.md",
-    "Impulse.md",
-    "Impulse To Weight Ratio.md",
+    "Characteristic Velocity.md",
     "Effective Exhaust Velocity.md",
-    "Nozzles/Aerospike Nozzle.md"
+    "Thrust.md",
+    "Optimum Expansion Ratio.md",
+    "Specific Impulse.md",
+    "Impulse.md",
+    "Classical Mechanics/Force.md",
+    "Mass Flow Rate.md",
+    "Thrust To Weight Ratio.md",
+    "Propellant Mass Fraction.md"
   ]
 }
