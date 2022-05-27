@@ -7,8 +7,12 @@
         "id": "a976faea0c5dd3a6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Energy/Energy.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Energy/Energy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Energy/Energy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -91,15 +97,15 @@
   },
   "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
+    "Energy/Energy.md",
+    "jet power.md",
+    "Energy/Jet Power.md",
+    "Specific Impulse.md",
     "Characteristic Velocity.md",
     "Effective Exhaust Velocity.md",
     "Thrust.md",
     "Optimum Expansion Ratio.md",
-    "Specific Impulse.md",
     "Impulse.md",
-    "Classical Mechanics/Force.md",
-    "Mass Flow Rate.md",
-    "Thrust To Weight Ratio.md",
-    "Propellant Mass Fraction.md"
+    "Classical Mechanics/Force.md"
   ]
 }
