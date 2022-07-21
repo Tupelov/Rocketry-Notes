@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#Energy",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "tag:#Analysis",
       "color": {
         "a": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 13.5058078141499,
   "linkStrength": 1,
   "linkDistance": 233,
-  "scale": 0.8170758820208613,
-  "close": true
+  "scale": 0.5828001777460725,
+  "close": false
 }

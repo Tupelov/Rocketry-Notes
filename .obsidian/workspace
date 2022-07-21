@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Energy/Energy.md",
+            "file": "Energy/Efficiencies.md",
             "mode": "source",
             "source": false
           }
@@ -19,93 +19,108 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "292fa94c7c18def5",
-    "type": "mobile-drawer",
+    "id": "5b612474385fb1a5",
+    "type": "split",
     "children": [
       {
-        "id": "e251eec9a43c357f",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "c6e28f6ff925af96",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "82f762327262208b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d95fcc6bf84f49be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a9769fbb13dffc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "760c0749e60403d0",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "4e58f19ed3844201",
-    "type": "mobile-drawer",
+    "id": "91f54115c7d607ca",
+    "type": "split",
     "children": [
       {
-        "id": "0a0cda931b12b5f6",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Energy/Energy.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "44f867977e5d9dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5d16ff2b7d3e13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Energy/Efficiencies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a626da76607ea52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Energy/Efficiencies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1db7192412826eed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "522ede00541ff7f6",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Energy/Energy.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "a976faea0c5dd3a6",
   "lastOpenFiles": [
-    "Energy/Energy.md",
-    "jet power.md",
-    "Energy/Jet Power.md",
-    "Specific Impulse.md",
-    "Characteristic Velocity.md",
+    "Energy/Efficiencies.md",
+    "Energy/Power.md",
+    "Energy/Multiple Propulsion Systems.md",
     "Effective Exhaust Velocity.md",
+    "Mass Flow Rate.md",
     "Thrust.md",
-    "Optimum Expansion Ratio.md",
-    "Impulse.md",
-    "Classical Mechanics/Force.md"
+    "Classical Mechanics/Force.md",
+    "Classical Mechanics/Newtons Law's of Motion.md",
+    "Characteristic Velocity.md",
+    "Classical Mechanics/Momentum.md"
   ]
 }

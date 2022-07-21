@@ -1,7 +1,11 @@
 #Energy 
 #Analysis 
 # Description
-In rocket's, 2 types of energy conversion is done. The production of energy and it's conversion to reaction thrust. The source of energy depends on the type of propulsion system.
+Power is the rate at which work is done. Knowing that $W=Fd$, we can take the derivative to get the vehicle power: $$P_{vehicle}=\frac{d(Fd)}{dt}=Fu$$
+Where *u* is the velocity of the vehicle and *F* is the [[thrust]].
+
+In rocket's, 2 types of energy conversion is done. 
+The production of energy and it's conversion to reaction thrust. The source of energy depends on the type of propulsion system.
 ## Jet Power
 The kinetic energy of ejected propellant is the main useful form of energy for propulsion. The jet power is the derivative of this energy. $$P{jet}=\frac{d(\frac{1}{2}mv_e^2)}{dt}=\frac{1}{2}\dot{m}v_e^2=\frac{1}{2}Fv_e$$
 ## Specific Power
@@ -10,4 +14,5 @@ $$P_s=\frac{P_{jet}}{m_0}$$
 ## Chemical Power
 *Chemical Power* is the maximum energy available to a chemical rocket, it is their heat of combustion per unit of propellant mass $Q_R$:
 $$P_{chem}=\dot{m}Q_RJ$$
-The units for $Q_r$ is $\frac{J}{kg}$ or heat of reaction per unit propellant. $J$ is a conversion constant and isn't necessary in metric.
+The units for $Q_r$ is $\frac{J}{kg}$ or heat of reaction per unit propellant. $J$ is a conversion constant and isn't necessary in metric.  A large portion of the energy may leave as waste heat inside the propellant.
+
